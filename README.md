@@ -11,6 +11,6 @@ CMD :
 BROWSER :
 127.0.0.1:8000/admin/
 |
-127.0.0.1:8000/login/
+127.0.0.1:8000/accounts/login/
 |
-127.0.0.1:8000/ccounts/signup/
+127.0.0.1:8000/accounts/signup/
